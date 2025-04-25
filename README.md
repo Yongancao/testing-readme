@@ -60,7 +60,7 @@ Provide here instructions on how to use your application.
             ```
     - If you are having trouble installing pygame then do this:
     - First check where python is installed:
-        - Open Terminal on your PC (not vscode) and run:
+        - Open Terminal on your PC and run:
             - Windows
             ```
             where python
@@ -79,7 +79,7 @@ Provide here instructions on how to use your application.
         ```
         /usr/bin/python3 -m pip3 install pygame
         ```
-5. Run Main.py on VS code or on Terminal (run in the right directory)
+5. Run Main.py on VS code or on Terminal (run in the correct directory)
     - Window
     ```
     python Main.py
@@ -90,12 +90,7 @@ Provide here instructions on how to use your application.
     ```
 
 # How to contribute
-Follow this project board to know the latest status of the project: https://github.com/orgs/cis3296s25/projects/66/views/1?filterQuery=  
-
-
-
-
-
+Follow this project board to know the latest status of the project: https://github.com/orgs/cis3296s25/projects/66/views/1?filterQuery=
 <!-- ### How to build
 - Use this github repository: ... 
 - Specify what branch to use for a more stable release or for cutting edge development.  
