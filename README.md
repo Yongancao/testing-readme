@@ -11,7 +11,7 @@ Provide here instructions on how to use your application.
     https://www.python.org/downloads/
     ```
     - Or download it from Microsoft Store (Windows)
-    - Check if Python is installed:
+    - Check if Python is installed by running this in the terminal:
         - Windows:
         ```
         python --version
@@ -21,6 +21,9 @@ Provide here instructions on how to use your application.
         python3 --version
         ```
 3. Install Visual Studio Code if it’s not already installed
+    ```
+    https://code.visualstudio.com/download
+    ```
     - Add the necessary extensions on VS code
         - Python Extension Pack
 4. Download pygames:
@@ -88,6 +91,8 @@ Provide here instructions on how to use your application.
 
 # How to contribute
 Follow this project board to know the latest status of the project: https://github.com/orgs/cis3296s25/projects/66/views/1?filterQuery=  
+
+
 
 
 
