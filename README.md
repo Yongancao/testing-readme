@@ -4,8 +4,8 @@ Development of a tower defense game where the player places down towers to preve
 ![This is a screenshot.](ShroomsTowerDefense.png)
 # How to run
 Provide here instructions on how to use your application.
-    1. clone the repository
-    2. Download python if not already downloaded
+    - clone the repository
+    - Download python if not already downloaded
         - You can download python on the Python Website:
         ```
         https://www.python.org/downloads/
